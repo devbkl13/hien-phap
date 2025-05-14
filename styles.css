@@ -401,4 +401,13 @@ body.times-new-roman {
         flex-direction: column;
         gap: 0;
     }
+}
+
+/* Thêm CSS cho phần summary trong card */
+.summary {
+    font-style: italic;
+    border-top: 1px solid #eaeaea;
+    padding-top: 10px;
+    margin-top: 10px;
+    color: #555;
 } 
